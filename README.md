@@ -1,6 +1,6 @@
 # sass-retina-backgrounds
 
-Simple mixins for using retina background images. Uses classes generated from [Modernizr](http://modernizr.com) to target browsers which don’t support media queries.
+Simple mixins for serving high-resolution background-images for retina displays. Uses classes generated from [Modernizr](http://modernizr.com) to target browsers which don’t support media queries.
 
 ## Syntax
 
