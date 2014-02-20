@@ -10,5 +10,5 @@
     "**/*.md"
   ],
   "description": "Sass mixin for serving high-resolution background-images for retina displays",
-  "main": "_retina-backgrounds.scss",
+  "main": "_retina-backgrounds.scss"
 }
