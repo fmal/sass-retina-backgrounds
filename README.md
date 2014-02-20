@@ -6,7 +6,7 @@ Simple mixins for serving high-resolution background-images for retina displays.
 
 Simply run the following within your project:
 
-    $ bower install sass-icon-fonts
+    $ bower install sass-retina-backgrounds
     
 ### application.scss file
 
