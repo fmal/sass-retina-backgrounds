@@ -1,0 +1,14 @@
+@mixin retina-background-image(
+    $image,
+    $width: 50%,
+    $height: auto,
+    $extension: "png"
+) {
+    @include non-retina {
+        background-image: url("#{$image}.#{$extension}");
+    }
+    @include retina {
+      background-image: url("#{$image}@2x.#{$extension}");
+      background-size: $width $height;
+    }
+}

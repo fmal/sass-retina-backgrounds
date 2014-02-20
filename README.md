@@ -2,6 +2,16 @@
 
 Simple mixins for serving high-resolution background-images for retina displays. Uses classes generated from [Modernizr](http://modernizr.com) to target browsers which don’t support media queries.
 
+## Install
+
+Simply run the following within your project:
+
+    $ bower install sass-icon-fonts
+    
+### application.scss file
+
+    @import "../bower_components/sass-retina-backgrounds/_retina-backgrounds.scss";
+
 ## Syntax
 
     @mixin retina-background-image($image, $width, $height, $extension)

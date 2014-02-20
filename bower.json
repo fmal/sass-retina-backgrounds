@@ -1,0 +1,14 @@
+{
+  "name": "sass-retina-backgrounds",
+  "version": "0.0.1",
+  "authors": [
+    "Filip Malinowski <crimhead@gmail.com>"
+  ],
+  "ignore": [
+    ".gitignore",
+    "bower.json",
+    "**/*.md"
+  ],
+  "description": "Sass mixin for serving high-resolution background-images for retina displays",
+  "main": "_retina-backgrounds.scss",
+}
