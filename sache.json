@@ -1,0 +1,13 @@
+{
+  "name": "sass-retina-backgrounds",
+  "description": "Sass mixin for serving high-resolution background-images for retina displays",
+  "tags": [
+    "sass",
+    "retina",
+    "hdpi",
+    "retina backgrounds",
+    "retina background images",
+    "hdpi backgrounds",
+    "hdpi background images"
+  ]
+}
